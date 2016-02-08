@@ -1,0 +1,28 @@
+name: Circling Eagle Law
+favicon: null
+layout_spectrum: 0.9600963708944619
+typography_spectrum: 0.7430967702530324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7104921299032867
+  lightness: 0.8034132604952902
+  saturation: 0.8315810677595437
+  rhythmicContrast: 0.5663234279491007
+purpose: []
